@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Fb Account Creation Test Suite">
+
+    <test name="Account Creation">
+        <classes>
+            <class name="com.planit.jo.app.fb.suites.SignUpTest"/>
+        </classes>
+    </test>
+</suite>
